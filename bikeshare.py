@@ -28,11 +28,11 @@ def get_filters():
             city = input('Enter Correct city: ').lower()
              #lower is used to get input in any format
     # get user input for month (all, january, february, ... , june)
-    month = input('\nWhich month? January, February, March, April, May, or June?\n').lower()
+    month_name = input('\nWhich month? January, February, March, April, May, or June?\n').lower()
      #lower is used to get input in any format
 
     while(True):
-        if(month == 'january' or month == 'february' or month == 'march' or month == 'april' or month == 'may' or month == 'june' or month == 'all'):
+        if(month_name == 'january' or month_name == 'february' or month_name == 'march' or month_name == 'april' or month_name == 'may' or month_name == 'june' or month_name == 'all'):
             break
         else:
             month = input('Enter valid month\n').lower()

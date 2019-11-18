@@ -1,4 +1,4 @@
-BikeShare
+Bay Area Bike Share
 This project is pure python based project.
 
 Data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington has been explored using python.

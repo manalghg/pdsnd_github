@@ -1,15 +1,14 @@
-### Date created
-Include the date you created this project and README file.
+BikeShare
+This project is pure python based project.
 
-### Project Title
-Replace the Project Title
+Data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington has been explored using python.
 
-### Description
-Describe what your project is about and what it does
+Randomly selected data for the first six months of 2017 are there for all three cities.
+All three of the data files contain the same core six (6) columns:
 
-### Files used
-Include the files used
+The Chicago and New York City files also have the following two columns:
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Gender Birth Year
+Statistics is computed to draw insights from the data given.
 
+numpy and pandas libraries are used in the project to draw various deteils from the data.
